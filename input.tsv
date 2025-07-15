@@ -1,0 +1,18 @@
+id	sentence	category
+1	This is the first sentence in our TSV file.	A
+2	Here is the second sentence, which is quite interesting.	B
+3	The third one describes a beautiful sunset.	A
+4	Fourth sentence talks about programming in Python.	C
+5	A quick note on data processing.	B
+6	This is sentence number six for testing.	A
+7	Seven is a lucky number for many people.	C
+8	Eighth sentence highlights the importance of comments.	A
+9	Ninth sentence is just a placeholder.	B
+10	Tenth sentence completes a full decade.	C
+11	Eleven brings new challenges and opportunities.	A
+12	Twelve is often associated with a dozen.	B
+13	Thirteen can be considered unlucky by some.	C
+14	Fourteenth sentence is almost the end of our list.	A
+15	And finally, the fifteenth sentence to conclude.	B
+16	This sentence should not be included in the output.	C
+17	Neither should this one, as we limit to 15.	A
