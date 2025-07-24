@@ -47,11 +47,11 @@ def extract_and_export_sentences(tsv_file_path, output_file_path, num_sentences=
 # --- Example Usage ---
 if __name__ == "__main__":
     # Define the input TSV file path and output TXT file path
-    input_tsv_file = "line_index_male.tsv"
-    output_txt_file = "output_sentences.txt"
+    input_tsv_file = "line_index_female.tsv"
+    output_txt_file = "sentences.txt"
 
     # Call the function to extract and export sentences
-    extract_and_export_sentences(input_tsv_file, output_txt_file, num_sentences=15)
+    extract_and_export_sentences(input_tsv_file, output_txt_file, num_sentences=4500)
 
     # Clean up the dummy TSV file after execution (optional)
     # os.remove(input_tsv_file)

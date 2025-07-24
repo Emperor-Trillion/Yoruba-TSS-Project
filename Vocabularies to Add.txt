@@ -1,0 +1,9 @@
+Add training corpus for:
+-Alphabets - Single letters
+-Numbers
+	-Single Number counting
+	-Currency counting
+-Single words
+-2 - 5 sentences
+-Pay attention to end and begin of sentences as they affect pronunciation.
+
